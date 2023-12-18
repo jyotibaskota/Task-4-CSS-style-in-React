@@ -4,7 +4,10 @@
   align-items: center;
   width: 100vw;
 }
-
+body {
+  background-color: black;
+  color: white;
+}
 .read {
   color: rgb(42, 136, 183);
 }

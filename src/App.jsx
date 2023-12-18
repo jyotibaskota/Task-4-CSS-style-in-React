@@ -35,7 +35,6 @@ function App() {
         </div>
       </div>
       <section>
-        <h2>Learn More</h2>
         <p>
           Click here to buy
           <a
