@@ -4,6 +4,7 @@
   align-items: center;
   width: 100vw;
 }
+
 .read {
   color: rgb(42, 136, 183);
 }
@@ -12,7 +13,7 @@
   justify-content: center;
   max-width: 800px;
   margin-inline: 0 center;
-  box-shadow: 0 0 10px #fafafa;
+  box-shadow: 0 0 20px #c80606;
   padding: 2rem;
 }
 .left-side {
